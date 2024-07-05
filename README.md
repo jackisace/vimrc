@@ -1,5 +1,6 @@
 # vimrc
-                                                                                                                                                                               ``` sh
+
+``` sh
 runtime! debian.vim
 filetype plugin indent on
 set nobackup

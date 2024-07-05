@@ -1,5 +1,5 @@
 # vimrc
-                                                                                                                                                                                       
+                                                                                                                                                                               ```        
 runtime! debian.vim                                                                                                                                                                                                                         
                                                                                                                                                                                                                      
                                                                                                                                                                                                                                             
@@ -24,10 +24,4 @@ set autoread
 colorscheme habamax                                                                                                                                                                                                                         
 set background=dark                                                                                                                                                                                                                         
 set showmatch       " Show matching brackets.                                                                                                                                                                                               
-                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                            
-map <F1> :e ~/.vimrc<cr>                                                                                                                                                                                                                    
-map <F2> :only<cr>:!gcc % -o %.f 2>out<cr>:vs out<cr><C-w>w                                                                                                                                                                                 
-map <f3> :!./%.f<cr> 
+```                                                                                                                                                                               

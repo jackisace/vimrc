@@ -16,6 +16,7 @@ set tabstop=2
 set splitright
 set scrolloff=999
 set autoread
+set mouse=a
 colorscheme habamax
 set background=dark
 set showmatch

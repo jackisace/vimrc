@@ -21,4 +21,7 @@ colorscheme habamax
 set background=dark
 set showmatch
 
+map <F2> :.w !bash<CR>
+
+
 ```                                                                                                                                                                           

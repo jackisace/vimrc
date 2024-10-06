@@ -22,6 +22,8 @@ set background=dark
 set showmatch
 
 map <F2> :.w !bash<CR>
+map <F3> :r!<C-R><C-L><CR>
+
 
 
 ```                                                                                                                                                                           
